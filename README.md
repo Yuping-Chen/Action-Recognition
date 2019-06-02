@@ -1,14 +1,15 @@
 # Action-Recognition
 This project is for action recognition
-#####实验环境#####
+1.实验环境
+---------
 
-#软件环境：
+软件环境：
 1）系统：Ubuntu16.04
 2）编译器：python3.5
 3）python深度学习库：tensorflow1.4，keras2+
 4）其他环境：ffmpeg等
 
-#GPU配置：
+GPU配置：
 双路Titan xp，每路显存12G，
 
 ####视频预处理####
