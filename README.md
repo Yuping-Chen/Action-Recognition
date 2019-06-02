@@ -1,7 +1,6 @@
 # Action-Recognition
-This project is for action recognition
-1.实验环境
----------
+
+##1.实验环境
 
 软件环境：
 1）系统：Ubuntu16.04
