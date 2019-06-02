@@ -12,7 +12,7 @@
 双路Titan xp，每路显存12G，
 
 ## 视频预处理
-1）去UCF-101官网http://crcv.ucf.edu/data/UCF101.php下载UCF101数据集到data文件夹下
+1）去UCF-101官网http://crcv.ucf.edu/data/UCF101.php下载UCF101数据集到data文件夹下<br>
 2）在data文件夹下使用unrar e UCF101.rar命令解压文件
 3）在data文件夹下运行0_move_vedio_filepath.py文件把相应视频文件移动到train和test文件夹中
 4）在data文件夹下运行1_extract_video_jpg.py文件把train和test中的视频用fffmpeg转换成图片，要在系统中安装fffmpeg
